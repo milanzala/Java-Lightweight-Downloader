@@ -118,7 +118,7 @@ public class lightweightdownloader implements Runnable {
         mainFrame.add(panel6);
 
         mainFrame.pack();
-        mainFrame.setResizable(true);
+        mainFrame.setResizable(false);
         mainFrame.setLocation(500, 150);
         mainFrame.setVisible(true);
         mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
