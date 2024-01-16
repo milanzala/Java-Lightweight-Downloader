@@ -6,7 +6,7 @@ You need [JRE](https://www.java.com/en/download/) to directly run a program or [
 ---
 ## Compile and run
 Make a new directory.  
-Put lightweightdownloader.java file in it  
+Put lightweightdownloader.java file in it.
 ```
 javac lightweightdownloader.java
 ```
