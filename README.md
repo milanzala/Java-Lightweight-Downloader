@@ -13,4 +13,4 @@ javac lightweightdownloader.java
 ```
 jar cfe Downloader.jar lightweightdownloader *.class
 ```
-Downloader.jar is generated. Its Light-weight-Downloader!
+Downloader.jar will be generated. Its Light-weight-Downloader!
