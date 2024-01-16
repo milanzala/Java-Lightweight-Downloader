@@ -5,14 +5,12 @@ You need [JRE](https://www.java.com/en/download/) to directly run a program or [
 
 ---
 ## Compile and run
-- Make a new directory
-- Put lightweightdownloader.java file in it
--
+Make a new directory
+Put lightweightdownloader.java file in it
 ```
 javac lightweightdownloader.java
 ```
--
 ```
 jar cfe Downloader.jar lightweightdownloader *.class
 ```
-- Downloader.jar is generated. Its Light-weight-Downloader!
+Downloader.jar is generated. Its Light-weight-Downloader!
