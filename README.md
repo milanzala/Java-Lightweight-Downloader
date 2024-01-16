@@ -7,11 +7,12 @@ You need [JRE](https://www.java.com/en/download/) to directly run a program or [
 ## Compile and run
 Make a new directory.  
 Put lightweightdownloader.java file in it.  
-Open terminal in current directory. Run following commands.  
+Open terminal in current directory.  
+Run following commands.  
 ```
 javac lightweightdownloader.java
 ```
 ```
 jar cfe Downloader.jar lightweightdownloader *.class
 ```
-Downloader.jar will be generated. Its Light-weight-Downloader!
+Downloader.jar will be generated. Its Light-weight-Downloader!  
